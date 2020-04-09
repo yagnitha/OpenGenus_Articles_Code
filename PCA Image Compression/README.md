@@ -1,6 +1,6 @@
 # Applications of Principal Component Analysis (PCA)
 
-- This repository contains the supplementary code to my article [Applications of Principal Component Analysis (PCA)](https://iq.opengenus.org/applications-of-pca/) on OpenGenus IQ.
+- This folder contains the supplementary code to my article [Applications of Principal Component Analysis (PCA)](https://iq.opengenus.org/applications-of-pca/) on OpenGenus IQ.
 
 - Principal Component Analysis (PCA) is one of the most fundamental algorithms for dimension reduction and is a foundation stone in Machine Learning. 
 
