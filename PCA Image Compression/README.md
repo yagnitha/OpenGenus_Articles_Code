@@ -4,7 +4,7 @@
 
 - Principal Component Analysis (PCA) is one of the most fundamental algorithms for dimension reduction and is a foundation stone in Machine Learning. 
 
-- Mentioned in this repository is the code to one of the  applications: [Image Compression using PCA](https://github.com/yashml/OpenGenus_Articles_Code/blob/master/Applications%20of%20Principal%20Component%20Analysis%20(PCA)/Image_Compression_PCA.ipynb).
+- Mentioned in this folder is the code to one of the  applications: [Image Compression using PCA](https://github.com/yashml/OpenGenus_Articles_Code/blob/master/Applications%20of%20Principal%20Component%20Analysis%20(PCA)/Image_Compression_PCA.ipynb).
 
 - The input is the OpenGenus logo and the amount of variance preserved for different number of Principal Components is mentioned below:
 
