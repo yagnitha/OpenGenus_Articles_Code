@@ -9,3 +9,4 @@
 - The input is the OpenGenus logo and the amount of variance preserved for different number of Principal Components is mentioned below:
 
 ![Image Compression using PCA](https://iq.opengenus.org/content/images/2020/03/PCA_Image_Compression_figure-1.png)
+
